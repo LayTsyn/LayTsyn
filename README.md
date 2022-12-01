@@ -12,4 +12,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=Telegram&logoColor=27A7E7)](https://t.me/LayTsyn)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=LinkedIn&logoColor=016197)](https://wikipedia.org/wiki/Qt)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LayTsyn&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LayTsyn&show_icons=true&count_private=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+### Top Repositories
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LayTsyn&repo=Matrix)](https://github.com/anuraghazra/github-readme-stats)
