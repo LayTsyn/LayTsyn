@@ -7,4 +7,7 @@
 [![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)](https://wikipedia.org/wiki/C++)
 [![Qt](https://img.shields.io/badge/-Qt-0D1117?style=for-the-badge&logo=Qt&logoColor=40CD52)](https://wikipedia.org/wiki/Qt)
 
-Contacts
+### Contacts
+
+[![Telegram](https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=Telegram&logoColor=27A7E7)](https://t.me/LayTsyn)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=LinkedIn&logoColor=016197)](https://wikipedia.org/wiki/Qt)
