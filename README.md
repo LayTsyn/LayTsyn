@@ -1,5 +1,5 @@
 
-[![Header](https://www.creativefabrica.com/wp-content/uploads/2019/03/Monogram-LT-Logo-Design-by-Greenlines-Studios.jpg)](https://github.com/LayTsyn)
+[![Header](https://github.com/LayTsyn/LayTsyn/blob/main/src/LT-logo.jpg?raw=true)](https://github.com/LayTsyn)
 <!-- https://www.vippng.com/png/full/109-1091108_developer-png-png-download-computer-engineering-cartoon.png-->
 
 Now I'm just a student and trying to focus on studying and improving the level of development
