@@ -9,7 +9,7 @@ Now I'm just a student and trying to focus on studying and improving the level o
 
 >[![Qt](https://img.shields.io/badge/-Qt-0D1117?style=for-the-badge&logo=Qt&logoColor=40CD52)](https://wikipedia.org/wiki/Qt)
 
->[![Qt](https://img.shields.io/badge/-GDAL-0D1117?style=for-the-badge&logo=GDAL&logoColor=5CAE58)](https://wikipedia.org/wiki/GDAL)
+<!-- [![GDAL](https://img.shields.io/badge/-GDAL-0D1117?style=for-the-badge&logo=GDAL&logoColor=5CAE58)](https://wikipedia.org/wiki/GDAL) -->
 
 #### Contacts
 
