@@ -15,7 +15,7 @@ Now I'm just a student and trying to focus on studying and improving the level o
 
 #### Contacts
 
->[![Telegram](https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=Telegram&logoColor=27A7E7)](https://t.me/LayTsyn)
+<!-- >[![Telegram](https://img.shields.io/badge/-Telegram-0D1117?style=for-the-badge&logo=Telegram&logoColor=27A7E7)](https://t.me/LayTsyn)
 <!-- >
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=LinkedIn&logoColor=016197)]([https://wikipedia.org/wiki/Qt](https://www.linkedin.com/in/nikolay-trubitsyn-722028259/))
 -->
